@@ -17,7 +17,7 @@ I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if yo
 
 You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
 
-And get all my post articles in my blog 📝 [**imnerd.org**](https://imnerd.org). 
+And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
  
 ### 💻 Open Source Work Stats
 
