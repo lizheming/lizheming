@@ -5,7 +5,12 @@ I have some work with **JavaScript**, **Node.js** and **SVG**, contact me if you
 
 ### 💌 Contact Me on Social Media
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3]
+[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just [Email](mailto:i@imnerd.org) or [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+
+### 💻 Open Source Work Stats
+
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
 
 <!--
 **lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
-
 [-1]: https://www.facebook.com/Austin.Lee.9173/
 [0]: https://m.weibo.cn/u/1694884707
 [1]: https://www.zhihu.com/people/lizheming
