@@ -7,7 +7,7 @@ I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if yo
 
 ### 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) or 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
 
 ### 💡 Projects with My Work
 
