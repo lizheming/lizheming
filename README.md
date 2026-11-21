@@ -5,7 +5,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @Bytedance as a Font-End engineer.  
+Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @Bytedance as a Front-End engineer.  
 I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
